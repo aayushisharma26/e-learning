@@ -9,18 +9,17 @@ const Home = () => {
             </div>
 
             <div className="home-container">
-                <div className="background-image">
-                    <div className="overlay">
-                        <h1 className="main-title">One Stop Event Planner</h1>
-                        <h3 className="sub-title">Expert Event Planning</h3>
-                        <p className="tagline">Every Event Should Be Perfect</p>
-                        <p className="description">
-                            We offer a comprehensive event planning service, ensuring every detail is perfect for your special occasion. From weddings to corporate events, we handle it all.
-                        </p>
-                        <div className="button-container">
-                            <button className="about-button" type="button">ABOUT US</button>
-                            <button className="get-started-button" type="button">GET EVENTS!</button>
-                        </div>
+                <div className="background-image"></div>
+                <div className="overlay">
+                    <h1 className="main-title">One Stop Event Planner</h1>
+                    <h3 className="sub-title">Expert Event Planning</h3>
+                    <p className="tagline">Every Event Should Be Perfect</p>
+                    <p className="description">
+                        We offer a comprehensive event planning service, ensuring every detail is perfect for your special occasion. From weddings to corporate events, we handle it all.
+                    </p>
+                    <div className="button-container">
+                        <button className="about-button" type="button">ABOUT US</button>
+                        <button className="get-started-button" type="button">GET EVENTS!</button>
                     </div>
                 </div>
             </div>
